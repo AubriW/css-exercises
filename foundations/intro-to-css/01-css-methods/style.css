@@ -1,6 +1,9 @@
 /*style.css, external css method for div element*/
-
+/*External requirements*/
 div {
    background-color: red;
    color: white;
+   font-size: 32px;
+   text-align: center;
+   font-weight: bold;
 }
