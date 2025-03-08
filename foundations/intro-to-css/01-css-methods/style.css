@@ -1,0 +1,6 @@
+/*style.css, external css method for div element*/
+
+div {
+   background-color: red;
+   color: white;
+}
