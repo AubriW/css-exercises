@@ -1,3 +1,4 @@
+/*Added 8px gap between title, button-container, and content elements */
 body {
   background: #eee;
   font-family: sans-serif;
@@ -7,18 +8,26 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  /*Added padding between each of the cards, 8px*/
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
+  margin: 8px; 
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  margin: 8px;
+  padding: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 8px;
+  padding: 8px;
 }
 
 button {
